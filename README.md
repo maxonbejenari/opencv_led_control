@@ -8,7 +8,7 @@ cd name_of_dr
 
 ## Clone repo
 ```bash
-git clone <[URL](https://github.com/maxonbejenari/opencv_led_contro)>
+git clone https://github.com/maxonbejenari/opencv_led_control
 ```
 
 ## Create a venv
